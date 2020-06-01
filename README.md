@@ -5,6 +5,6 @@ This is currently a basic website to showcase the work and projects I have been 
 [Claudia Lay](https://layc41.github.io/)
 
 # Screen Shots
-![Main](/screen-shot-1.png)
-![Main](/screen-shot-2.png)
-![Main](/screen-shot-3.png)
+![Main](/assets/images/screen-shot-1.png)
+![Main](/assets/images/screen-shot-2.png)
+![Main](./assets/images/screen-shot-3.png)
